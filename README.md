@@ -49,15 +49,6 @@ The app follows a modular and scalable folder structure:
 ```
 lib/
  ├── main.dart              # App entry point
- ├── models/                # Task and Note data models
- ├── provider/              # (Optional) State management with Riverpod
- ├── screen/                # UI Screens
- │    ├── home_screen.dart
- │    ├── add_task_screen.dart
- │    ├── task_detail.dart
- └── widget/                # Reusable UI components
-      ├── task_card.dart
-      ├── note_card.dart
 assets/
  └── images/                # UI images and icons
 ```
