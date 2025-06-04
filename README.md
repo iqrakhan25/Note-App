@@ -63,6 +63,8 @@ assets/
 <img src="assets/images/add_task.png" width="45%" alt="Add Task" />
 
 ---
+## Figma 
+https://www.figma.com/design/NsCqIeoIYE0ZGGFwV9o7Vy/Note-taking-app-UI--Community-?m=auto&is-community-duplicate=1&fuid=1512055629313252948
 
 ## 🛠️ Getting Started
 
